@@ -1,4 +1,4 @@
-package org.example.javaBook;
+package org.example.game;
 
 public class Player {
     int number = 0;
